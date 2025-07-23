@@ -1,0 +1,8 @@
+com\yourapp\payroll\EmployeeLoginServlet.class
+com\yourapp\payroll\DBConnection.class
+com\yourapp\payroll\AdminLoginServlet.class
+com\yourapp\payroll\LeaveApprovalServlet.class
+com\yourapp\payroll\PayrollServlet.class
+com\yourapp\payroll\ApplyLeaveServlet.class
+com\yourapp\payroll\AttendanceServlet.class
+com\yourapp\payroll\RegisterServlet.class
