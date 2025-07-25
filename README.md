@@ -39,7 +39,7 @@ A full-featured **web-based payroll management system** built using **Java (JSP 
 1.Import the SQL File:
 Open phpMyAdmin or MySQL CLI
 Create a database named employee_payroll
-Import the file sql/employee_payroll.sql
+Import the file employee_payroll.sql in root folder 
 
 2.Configure the Database:
 In src/com/yourapp/dao/DBConnection.java, update:
